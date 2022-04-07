@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **vaptheone/vaptheone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=vaptheone&show_icons=true&hide_border=true&hide=issues" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaptheone&layout=compact&langs_count=6" /></th>
+  </tr>
+</table>
+
+<br>
